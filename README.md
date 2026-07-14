@@ -1,4 +1,4 @@
-# Week 1 – ML Fundamentals
+# ML Fundamentals
 
 ## Topics Covered
 - Basics of Machine Learning
