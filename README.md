@@ -7,8 +7,8 @@
 - Train/Test split
 
 ## Files
-- `week1_assignment.ipynb` – Code and output
-- `titanic_data.csv` – Cleaned dataset
+- `titanic_data.ipynb` – Code and output
+- `cleaned_titanic.csv` – Cleaned dataset
 
 ## What I Did
 - Loaded Titanic dataset and checked basic stats
