@@ -1,4 +1,4 @@
-# ML Fundamentals
+# ML fundamentals
 
 ## Topics Covered
 - Basics of Machine Learning
